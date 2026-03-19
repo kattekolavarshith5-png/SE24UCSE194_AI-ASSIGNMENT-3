@@ -28,10 +28,11 @@ This project is a Python-based application that calculates the shortest path bet
 
 ```
 
-├── main.py                # Main application file
-├── distance_store.json   # Cached graph data
-├── .env                  # API key storage
-└── README.md             # Documentation
+├── .env.example               
+├── .gitignore   
+├── README.md                  
+└── code.py
+└── indiancities.csv          
 
 ```
 
