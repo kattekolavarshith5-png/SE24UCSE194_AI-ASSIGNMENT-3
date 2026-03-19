@@ -32,8 +32,9 @@ This project simulates an **Unmanned Ground Vehicle (UGV)** navigating a grid us
 
 ```
 
-├── dynamic_ugv.py   # Main simulation code
-└── README.md        # Documentation
+├── README.md   
+└── code.py
+└──requirements.txt
 
 ```
 
