@@ -31,8 +31,9 @@ This project simulates an **Unmanned Ground Vehicle (UGV)** navigating a grid en
 
 ```
 
-├── ugv_simulator.py   # Main simulation code
-└── README.md          # Documentation
+├── README.md   
+└── code.py
+└──requirements.txt
 
 ```
 
